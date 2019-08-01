@@ -1,0 +1,35 @@
+body {
+    background: url(https://vips.org/wp-content/uploads/2018/09/question-background.png)no-repeat center center fixed;
+    ;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: rgb(29, 49, 105)
+}
+
+h1 {
+    color: white;
+}
+
+h2,
+p {
+    color: white;
+}
+
+.Title {
+    color: white;
+}
+
+.Final-seconds {
+    color: red;
+}
+
+.option {
+    margin: 15px;
+}
+
+.questions {
+    color: white;
+}
